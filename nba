@@ -1,0 +1,7 @@
+#EXTM3U 
+
+
+#EXTINF:-1 tvg-id="pbc" tvg-logo="https://i.imgur.com/H24OJZx.png" group-logo="https://i.imgur.com/na7WMFe.png" group-title="PBC PPV",Pacquiao vs Barrios (Converge)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00221a0567221aed2abddfd302a256b9:25a072e5b7708fe639479f48f27a058b
+https://g003-sle-us-cmaf-prd-ak.cdn.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(2512090-213503-248e43eac7f)/master.mpd
